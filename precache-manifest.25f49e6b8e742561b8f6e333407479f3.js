@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11e08e9ba613830e68ca05c6e5e12cc4",
+    "revision": "311ae2e76c6b4c4d67dceb6a8059b5ec",
     "url": "/bmi-calculator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bmi-calculator/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9ae4458cb504c702364f",
+    "revision": "b9b361d4fa46b85ba129",
     "url": "/bmi-calculator/static/css/main.c55bc020.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bmi-calculator/static/js/2.9ab53e74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ae4458cb504c702364f",
-    "url": "/bmi-calculator/static/js/main.6a61d712.chunk.js"
+    "revision": "b9b361d4fa46b85ba129",
+    "url": "/bmi-calculator/static/js/main.b7c0fef2.chunk.js"
   },
   {
     "revision": "b0d9f7a354bbb539ef1e",
