@@ -43,7 +43,7 @@ const BMI = () => {
         className="calculator"
         style={{ backgroundColor: bmiBackgroundColor(bmiValue) }}
       >
-        <h3>Body Mass Index Calculator</h3>
+        <h3>A Body Mass Index Calculator</h3>
         <div className="bmi-result-container">
           <div className="bmi-result">
             <div className="bmi-result-number">
